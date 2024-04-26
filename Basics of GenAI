@@ -1,0 +1,11 @@
+# Basic concepts of GenerativeAI
+---------------------------------
+
+Q.) What is Generative AI ?
+A.) GenerativeAI is an artificial intelligence which generate new content based on existing data, patten & model.
+    Here, you can generate new images, audios, vedios & etc.
+    It runs on LLM (large language model).
+
+Note:- It has 2 segents/model
+a.) Generative Inage model   (Generate Image to image)
+b.) Generative Language model (support LLM & Generate Text to Text, Text to image & Image to image)
